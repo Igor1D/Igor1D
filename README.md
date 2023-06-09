@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Igor1D
-- 👀 I’m interested in Web Development
+- 👀 I’m a Junior Web Developer
 - 🌱 I’m currently learning HTML, CSS, JS, React
 <!---
 Igor1D/Igor1D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
