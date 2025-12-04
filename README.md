@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Igor1D
+- 👋 Hi, I’m Igor
 - 👀 I’m a Frontend Developer
 - 🌱 My stack: React, TS, NodeJS
 <!---
